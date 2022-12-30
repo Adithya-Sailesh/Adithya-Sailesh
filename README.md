@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 <p align="left"> <a href="https://twitter.com/_adithyasailesh" target="blank"><img src="https://img.shields.io/twitter/follow/_adithyasailesh?logo=twitter&style=for-the-badge" alt="_adithyasailesh" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [bit.ly/adithyas](bit.ly/adithyas)
+- 👨‍💻 All of my projects are available at [bit.ly/adithyas](https://adithya-sailesh.github.io/Personalwebsite/)
 
 - 💬 Ask me about **HTML ,CSS Java C programming**
 
